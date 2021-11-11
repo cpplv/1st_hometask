@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-class Name
+class Makhmud
 {
 	public:
 		virtual void setName(string){};

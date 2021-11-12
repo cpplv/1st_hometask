@@ -14,7 +14,7 @@ int main()
 	a.setName("Andrejs");
 	
 	Tabe t;
-	t.setName("Tabe");
+	t.setName("THE");
 	
 	Names[0] = &a;
 	Names[1] = &t;

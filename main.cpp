@@ -16,8 +16,8 @@ int main()
 	Jakhongir a;
 	a.setName("Jakhongir");
 
-	Names[0] = &a;
-	Names[1] = &b;
+	Names[0] = &b;
+	Names[1] = &a;
 	
 	for (int i=0; i<array_size; i++)
 		Names[i]->Print();

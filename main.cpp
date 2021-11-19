@@ -1,15 +1,15 @@
 #include <iostream>
 #include "Name.h"
-#include "Andrejs.h"
+#include "Kathan.h"
 using namespace std;
 
 int main()
 {
-	const int array_size = 1;
+	const int array_size = 2;
 	Name *Names[array_size];
 	
 	Andrejs a;
-	a.setName("Andrejs");
+	a.setName("Kathan");
 	
 	Names[0] = &a;
 	

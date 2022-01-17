@@ -7,7 +7,7 @@ int main()
 {
 	const int array_size = 1;
 	Name *Names[array_size];
-	
+	werwertwetr
 	Andrejs a;
 	a.setName("Andrejs");
 	

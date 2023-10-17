@@ -11,6 +11,9 @@ int main()
 	
 	Andrejs a;
 	a.setName("Andrejs");
+
+	Mikhail m;
+	m.setName("Mikhail");
 	
 	Names[0] = &a;
 	

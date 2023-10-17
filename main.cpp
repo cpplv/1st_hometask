@@ -1,11 +1,12 @@
 #include <iostream>
 #include "Name.h"
 #include "Andrejs.h"
+#include "Mikhail.h"
 using namespace std;
 
 int main()
 {
-	const int array_size = 1;
+	const int array_size = 2;
 	Name *Names[array_size];
 	
 	Andrejs a;

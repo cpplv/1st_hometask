@@ -8,7 +8,8 @@ class Andrejs: public Name
 		Andrejs(string = "DefaultName");
 		virtual void setName(string);
 		void Print() const;
-		
+
 	private:
 		string name;
+
 };
